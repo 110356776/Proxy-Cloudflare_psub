@@ -8,8 +8,10 @@ https://psub.888005.xyz
 https://youtu.be/X7CC5jrgazo
 
 环境变量名：`BACKEND`
+值填写 在线转换的后端网址
 
 KV或R2变量名：`SUB_BUCKET`
+创建一个KV
 
 ### 支持反代转换的协议
  - shadowsocks
